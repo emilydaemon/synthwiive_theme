@@ -1,3 +1,9 @@
-# Ignore .csm and .mym files
+# Ignore some files
 /*.csm
 /*.mym
+/*.exe
+/*.bin
+/*.rar
+/*.7z
+/*.zip
+/*.tar
