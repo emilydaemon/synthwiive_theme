@@ -1,0 +1,4 @@
+pic size for setupsel the transparrent part in the window template
+
+
+235 x 133
