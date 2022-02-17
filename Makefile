@@ -1,6 +1,6 @@
 SHELL = /bin/sh
 
-VERSION = 3.0.0
+VERSION = 4.0.0
 SOURCE = textures
 NAME = 4-X_synthwiive_v${VERSION}
 
