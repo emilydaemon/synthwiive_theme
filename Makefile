@@ -1,7 +1,9 @@
 SHELL = /bin/sh
 
+VERSION = 3.0.0
 SOURCE = textures
-NAME = synthwiive
+NAME = 4-X_synthwiive_v${VERSION}
+
 
 synthwiive_theme:
 	cd ${SOURCE}; zip -rv ../${NAME}.zip *
